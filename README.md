@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="350" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
 
 - 🎓 Pursuing Bachelors of Engineering in Computer Science (BE CSE'26)
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently working **Mern Stack**
 - 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/muskan588p)
 - 📫 Reach me at **musktech3018@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qmyiPVmtvzZA5ZZCkB5ftHMEIORHoJ2A/view?usp=sharing)
