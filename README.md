@@ -7,7 +7,7 @@
 - 🌱 I’m currently working on [Full stack project](https://github.com/muskan588p/AutoSphere-Ecommerce)
 - 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/muskan588p)
 - 📫 Reach me at **musktech3018@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qmyiPVmtvzZA5ZZCkB5ftHMEIORHoJ2A/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/170V95dcW_ktZMTpE6U8nx-uaxGufMW3g/view?usp=sharing)
 
 
 ## 🌐 Connect with me
