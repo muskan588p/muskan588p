@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muskan</h1>
-<h3 align="center">Aspiring Software Engineer | Full-Stack Developer | Data Structures and Algorithms | Problem Solver | AI/ML Explorer 🚀</h3>
+<h3 align="center"> Software Engineer Intern PHILIPS | Full-Stack Developer | Data Structures and Algorithms | Problem Solver | AI/ML Explorer 🚀</h3>
 
 <img align="right" alt="Coding" width="350" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
 
